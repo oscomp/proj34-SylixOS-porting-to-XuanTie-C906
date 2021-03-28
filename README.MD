@@ -8,6 +8,8 @@ SylixOS 全面支持 ARM/ PowerPC / MIPS / x86 / SPARC / DSP / RISC-V / C-SKY，
 我们的目标是在玄铁 C906 开发板上完成 SylixOS 最小系统开发适配和基础功能开发。  
 SylixOS最小系统包括系统时钟、系统中断和串口通信功能，基础功能包括网络通信与存储等功能。
 
+注意：开发板全志大概在6月份左右才能提供，选题的童鞋要注意了。
+
 ### 所属赛道
 
 2021全国大学生操作系统比赛的“OS功能设计”赛道
@@ -42,7 +44,7 @@ SylixOS最小系统包括系统时钟、系统中断和串口通信功能，基�
 [SylixOS 最小系统开发适配指导文档](https://github.com/acoinfo/sylixos_oscomp_2021/tree/master/shell_enhancement)
 
 ### 参考代码
-* [bspk210]()
+* [bspk210](https://github.com/acoinfo/bspcreativek210)
 
 ### License
 
